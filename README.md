@@ -12,18 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Quantum 👋
 
 ---
 
 ## 🌟 About Me
-I'm a passionate developer specializing in [Your Specialization]. I love building impactful projects and continuously learning new technologies.
+I'm a passionate developer specializing in C++ and Python. I love building impactful projects and continuously learning new technologies.
 
 ---
 
 ## 🔭 Currently Working On
-- **[Project Name](https://github.com/YOUR_USERNAME/PROJECT_NAME)**  
-  A modern web application designed to streamline task management.
+- **[Nothing](https://github.com/YOUR_USERNAME/PROJECT_NAME)**  
+  -nothing
 
 ---
 
@@ -40,22 +40,21 @@ I'm a passionate developer specializing in [Your Specialization]. I love buildin
 ---
 
 ## 🤔 Looking for Help With
-- **Deployment Best Practices**  
-  Seeking guidance on using Docker and Kubernetes effectively.
+- **Nothing**  
+  :).
 
 ---
 
 ## 💬 Ask Me About
-- **Web Development**  
-  UI/UX Design  
-  Agile Methodologies
+- **Game Development**  
+  and Nothing
 
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/YOUR_LINKEDIN)  
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YOUR_TWITTER)
+- **Email:** [don't](mailto:your.email@example.com)  
+- **LinkedIn:** [don't](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- **Twitter:** [don't](https://twitter.com/YOUR_TWITTER)
 
 ---
 
